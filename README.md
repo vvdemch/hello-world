@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Vladimir here, I like Python and Django (that`s what i learn!)
